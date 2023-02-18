@@ -8,7 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')
     print('test 중입니다!!')
-
+    print('메롱이다')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
